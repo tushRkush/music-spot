@@ -53,15 +53,4 @@ Explore this extensive tutorial to develop a complete Spotify clone from scratch
 - react-hook-form
 - react-toast
 
-## License
-
-This project is licensed under the terms of the MIT license.
-
-## Contributions
-
-Contributions, issues, and feature requests are welcome!
-
-## Contact
-
-Allan Hillman - tech@allanswebwork.info
 # music-spot
